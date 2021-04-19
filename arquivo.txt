@@ -1,0 +1,1 @@
+Esses dados serão copiados para o arquivo recebido no cliente.
